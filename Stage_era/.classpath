@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="net.sf.jasperreports.JR_CONTAINER"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/Mysql"/>
+	<classpathentry kind="con" path="net.sf.jasperreports.JR_DEPENDENCIES_CONTAINER"/>
+	<classpathentry kind="con" path="com.jaspersoft.server.JRS_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Users/HP/.p2/pool/plugins/org.eclipse.jdt.compiler.apt_1.3.1000.v20200505-1625.jar"/>
+	<classpathentry kind="lib" path="D:/FAC/Fac 2020/applicationWeb/apache-tomcat-9.0.26/apache-tomcat-9.0.26/lib/ecj-4.12.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
